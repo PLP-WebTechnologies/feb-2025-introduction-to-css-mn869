@@ -1,0 +1,50 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Header styling */
+.header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* Paragraph styling */
+.content {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+/* Image styling */
+.image-style {
+    width: 100%;
+    max-width: 500px;
+    border: 5px solid #007bff;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Button styling */
+#btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+#btn:hover {
+    background-color: #218838;
+}
